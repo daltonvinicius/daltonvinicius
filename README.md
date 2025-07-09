@@ -1,5 +1,5 @@
 ## Hello there, I'm Dalton Vinicius! <img src="hello.gif" alt="hello gif" width="40"/>
-<a href="https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/daltonvinicius/)" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/daltonvinicius/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
