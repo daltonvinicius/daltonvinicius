@@ -7,7 +7,7 @@
           
           
 ## About me
-Me chamo Dalton Vinicius, tenho 22 anos e sou formado em Ciência da Computação. Atualmente moro no Brasil e trabalho em uma instituição financeira, onde atuo na área comercial. Apesar de não estar diretamente envolvido com tecnologia no meu trabalho atual, tenho uma grande paixão pela área e estou em constante aprendizado para, no futuro, atuar profissionalmente no setor de TI.
+Me chamo Dalton Vinicius, tenho 22 anos e sou formado em Ciência da Computação. Atualmente moro no Brasil em Pernambuco e trabalho em uma instituição financeira, onde atuo na área comercial. Apesar de não estar diretamente envolvido com tecnologia no meu trabalho atual, tenho uma grande paixão pela área e estou em constante aprendizado para, no futuro, atuar profissionalmente no setor de TI.
 
 
 ## Skills
